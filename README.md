@@ -9,7 +9,13 @@ Before starting we need to install pytesseract in anaconda command prompt (pip i
 
 
 after that we will split text on the basis on space. so we will having a list of words.
-After that we make searching operations for "Regn number","Chassis number","Name","Engine number","Registration date","Mfg. date".
+After that we make searching operations for 
+"Regn number",
+"Chassis number",
+"Name",
+"Engine number",
+"Registration date",
+"Mfg. date".
 after that make dataframe of this fetched data and save it in form of excel file. 
 
 
